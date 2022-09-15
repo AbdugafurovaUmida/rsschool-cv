@@ -13,13 +13,13 @@
  ##### and move on in this direction.
 
 ## Skills
-  ##### HTML
-  ##### CSS
-  ##### JS
-  ##### SCSS
-  ##### GIT
-  ##### REACT
-  ##### VUE
+  ### HTML
+  ### CSS
+  ### JS
+  ### SCSS
+  ### GIT
+  ### REACT
+  ### VUE
 
 ## Experience
  ##### [UNITEDITCOMPANY](https://uic.group/uz)
