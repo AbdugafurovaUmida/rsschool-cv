@@ -1,5 +1,5 @@
 # Abdugafurova Umida 
-========================
+
 ### Contacts
 
 ##### +998 (97) 155-61-40
@@ -13,17 +13,17 @@
  ##### and move on in this direction.
 
 ## Skills
- * ##### HTML
- * ##### CSS
- * ##### JS
- * ##### SCSS
- * ##### GIT
- * ##### REACT
- * ##### VUE
+  ##### HTML
+  ##### CSS
+  ##### JS
+  ##### SCSS
+  ##### GIT
+  ##### REACT
+  ##### VUE
 
 ## Experience
-* ##### [UNITEDITCOMPANY](https://uic.group/uz)
+ ##### [UNITEDITCOMPANY](https://uic.group/uz)
 
 
 ## Education 
-* ##### 2021 March - 2022 January Najot Talim Education Course
+ ##### 2021 March - 2022 January Najot Talim Education Centre (FRONTEND BOOTCAMP)
