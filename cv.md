@@ -5,6 +5,9 @@
 
 📩 <abdugafurova93@gmail.com> | :octocat: [github account](https://github.com/AbdugafurovaUmida)
 
+## Summary
+I'm currently working small freelance web project [benissimo.uz](https://benissimo-uz.vercel.app/).My goal is to learn everything new and exciting. I love to code and coffee. I can(love) spend a lot of time doing what interests me. My core strengths are in problem solving and fast learning.I want to get knowledge and skills that will be enough for employment in a company.
+
 Junior Front-End developer with a passion for good user experience and accessibility.
 
 
@@ -15,6 +18,41 @@ Junior Front-End developer with a passion for good user experience and accessibi
 -  HTML, CSS, Tailwind CSS
 -  SASS
 -  JavaScript, React Js, Vue Js
+
+## Code
+
+function calculator(operation, num1, num2) {
+  let result;
+
+  switch (operation) {
+    case '+':
+      result = num1 + num2;
+      break;
+    case '-':
+      result = num1 - num2;
+      break;
+    case '*':
+      result = num1 * num2;
+      break;
+    case '/':
+      result = num1 / num2;
+      break;
+    default:
+      console.log('Invalid operation');
+      return;
+  }
+
+  return result;
+}
+
+// Example usage
+const num1 = 10;
+const num2 = 5;
+
+console.log(calculator('+', num1, num2)); // Addition: 10 + 5 = 15
+console.log(calculator('-', num1, num2)); // Subtraction: 10 - 5 = 5
+console.log(calculator('*', num1, num2)); // Multiplication: 10 * 5 = 50
+console.log(calculator('/', num1, num2)); // Division: 10 / 5 = 2
 
 ## Experience
 
@@ -33,6 +71,8 @@ Front End Developer (React)
 🔗 [Four Card Feature Section  ( Frontend Mentor Challenge)](https://stalwart-naiad-b1524f.netlify.app/)
 
 🔗 [w3school Template](https://w3school-template.netlify.app/)
+
+🔗 [TMCI](https://tmci.uz/)
 
 ## Education
 
