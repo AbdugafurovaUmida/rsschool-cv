@@ -3,7 +3,7 @@
 
 **Junior Front-End developer**
 
-:envelope: <abdugafurova93@gmail.com> / :octocat: [github account](https://github.com/AbdugafurovaUmida)
+:envelope: abdugafurova93@gmail.com / :octocat: [github account](https://github.com/AbdugafurovaUmida)
 
 Junior Front-End developer with a passion for good user experience and accessibility.
 
@@ -27,6 +27,10 @@ Front End Developer (Vue)
 Front End Developer (React)
 
 ### Projects
+
+:link: [Order-Summary-Component  ( Frontend Mentor Challenge)](https://effervescent-cendol-8d959c.netlify.app/)
+
+:link: [Four Card Feature Section  ( Frontend Mentor Challenge)](https://stalwart-naiad-b1524f.netlify.app/)
 
 ### Education
 
