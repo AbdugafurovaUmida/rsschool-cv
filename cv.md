@@ -20,7 +20,7 @@ Junior Front-End developer with a passion for good user experience and accessibi
 -  JavaScript, React Js, Vue Js
 
 ## Code
-
+```
 function calculator(operation, num1, num2) {
   let result;
 
@@ -53,6 +53,7 @@ console.log(calculator('+', num1, num2)); // Addition: 10 + 5 = 15
 console.log(calculator('-', num1, num2)); // Subtraction: 10 - 5 = 5
 console.log(calculator('*', num1, num2)); // Multiplication: 10 * 5 = 50
 console.log(calculator('/', num1, num2)); // Division: 10 / 5 = 2
+```
 
 ## Experience
 
