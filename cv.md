@@ -3,7 +3,7 @@
 
 **Junior Front-End developer**
 
-📩 <abdugafurova93@gmail.com> | :octocat: [github account](https://github.com/AbdugafurovaUmida)
+📩 <abdugafurova93@gmail.com> | :octocat: [github account - AbdugafurovaUmida](https://github.com/AbdugafurovaUmida)
 
 ## Summary
 I'm currently working small freelance web project [benissimo.uz](https://benissimo-uz.vercel.app/).My goal is to learn everything new and exciting. I love to code and coffee. I can(love) spend a lot of time doing what interests me. My core strengths are in problem solving and fast learning.I want to get knowledge and skills that will be enough for employment in a company.
