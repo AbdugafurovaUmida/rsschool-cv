@@ -3,20 +3,20 @@
 
 **Junior Front-End developer**
 
-:envelope: abdugafurova93@gmail.com / :octocat: [github account](https://github.com/AbdugafurovaUmida)
+📩 abdugafurova93@gmail.com / :octocat: [github account](https://github.com/AbdugafurovaUmida)
 
 Junior Front-End developer with a passion for good user experience and accessibility.
 
 
-### Skills
-- [x] Git
-- [x] Slack
-- [x] Figma, Photoshop XD
-- [x] HTML, CSS, Tailwind CSS
-- [x] SASS
-- [x] JavaScript, React Js, Vue Js
+## Skills
+-  Git
+-  Slack
+-  Figma, Photoshop XD
+-  HTML, CSS, Tailwind CSS
+-  SASS
+-  JavaScript, React Js, Vue Js
 
-### Experience
+## Experience
 
 **March 2022 - December 2022** *Uzbekistan, Tashkent*
 
@@ -26,13 +26,13 @@ Front End Developer (Vue)
 
 Front End Developer (React)
 
-### Projects
+## Projects
 
-:link: [Order-Summary-Component  ( Frontend Mentor Challenge)](https://effervescent-cendol-8d959c.netlify.app/)
+🔗 [Order-Summary-Component  ( Frontend Mentor Challenge)](https://effervescent-cendol-8d959c.netlify.app/)
 
-:link: [Four Card Feature Section  ( Frontend Mentor Challenge)](https://stalwart-naiad-b1524f.netlify.app/)
+🔗 [Four Card Feature Section  ( Frontend Mentor Challenge)](https://stalwart-naiad-b1524f.netlify.app/)
 
-### Education
+## Education
 
 **2023 – now Rolling Scopes School** *Online*
 
@@ -64,9 +64,9 @@ Javascript/Front-end Mentoring Program
 - Solution Javascript tasks;
 - Create animation in Javascript;
 
-### Languages
+## Languages
 
-- [x] English (B1)
-- [x] Russian (B1)
-- [x] Uzbek
+- English (B1)
+- Russian (B1)
+- Uzbek
 
