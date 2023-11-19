@@ -32,6 +32,8 @@ Front End Developer (React)
 
 🔗 [Four Card Feature Section  ( Frontend Mentor Challenge)](https://stalwart-naiad-b1524f.netlify.app/)
 
+🔗 [w3school Template](https://w3school-template.netlify.app/)
+
 ## Education
 
 **2023 – now Rolling Scopes School** *Online*
