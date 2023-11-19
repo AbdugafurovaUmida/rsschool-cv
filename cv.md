@@ -11,7 +11,7 @@ Junior Front-End developer with a passion for good user experience and accessibi
 ## Skills
 -  Git
 -  Slack
--  Figma, Photoshop XD
+-  Figma, Adobe XD
 -  HTML, CSS, Tailwind CSS
 -  SASS
 -  JavaScript, React Js, Vue Js
