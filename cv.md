@@ -3,7 +3,7 @@
 
 **Junior Front-End developer**
 
-📩 <abdugafurova93@gmail.com> / :octocat: [github account](https://github.com/AbdugafurovaUmida)
+📩 <abdugafurova93@gmail.com> | :octocat: [github account](https://github.com/AbdugafurovaUmida)
 
 Junior Front-End developer with a passion for good user experience and accessibility.
 
