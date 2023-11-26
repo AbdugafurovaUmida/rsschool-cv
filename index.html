@@ -140,6 +140,45 @@
                     <li>RS Schools «JavaScript/Front-end.»</li>
                 </ul>
             </section>
+            <section class="projects" id="projects">
+                <div class="sub-header">
+                    <img src="./icons/courses.svg" alt="Courses" width="30" height="30">
+                    <h3>Projects</h3>
+                </div>
+                <ul>
+                    <li><a class="project-tile" href="https://effervescent-cendol-8d959c.netlify.app">Order Summary
+                            Frontend Mentor io</a> </li>
+                    <li><a class="project-tile" href="https://startling-dolphin-8a92d4.netlify.app">Profile Card
+                            Frontend Mentor io</a></li>
+
+                </ul>
+            </section>
+            <section class="code-example">
+                <div class="sub-header">
+                    <img src="./icons/code.svg" alt="Code Icon" width="30" height="30">
+                    <h3>Code example</h3>
+                </div>
+                <p><strong>Peak array index KATA from CODEWARS:</strong> Given an array of ints, return the index
+                    such
+                    that
+                    the sum of the elements to the right of that index equals the sum of the elements to the
+                    left of that index. If there is no such index, return -1. If there is more than one such index,
+                    return the
+                    left-most index.</p>
+                <pre>
+                                                <code>
+                                    function peak(arr) {
+                                    
+                                      for (let i = 1; i &lt; arr.length - 1; i++) {
+                                        let leftSum = arr.slice(0, i).reduce((accumulator, currentValue) => accumulator + currentValue);
+                                        let rightSum = arr.slice(i + 1).reduce((accumulator, currentValue) => accumulator + currentValue);
+                                    
+                                        if (leftSum === rightSum) return i;
+                                      }
+                                      return -1;
+                                    }</code>
+                                              </pre>
+            </section>
         </main>
     </div>
     <footer></footer>
